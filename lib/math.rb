@@ -2,7 +2,7 @@ def addition(num1, num2)
 num1=5 
 num2=4
 num1+num2=sum(9)
-print sum
+return sum
 end
 
 def subtraction(num1, num2)
