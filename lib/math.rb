@@ -34,5 +34,6 @@ return num1%num2
 end
 
 def square_root(num)
-num=
+num=81
+val1 = num
 end
