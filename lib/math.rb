@@ -13,7 +13,7 @@ return num1-num2
 end
 
 def division(num1, num2)
-um1=50 
+num1=50 
 num2=2
 puts num1/num2
 return num1/num2
