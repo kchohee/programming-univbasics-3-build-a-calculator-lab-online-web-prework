@@ -1,7 +1,7 @@
 def addition(num1, num2)
 num1=10 
 num2=5
-num1 + num2 = sum(5) 
+num1 + num2 = sum(9) 
 print sum
 end
 
